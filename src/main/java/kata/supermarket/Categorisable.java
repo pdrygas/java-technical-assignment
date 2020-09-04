@@ -1,5 +1,5 @@
 package kata.supermarket;
 
 interface Categorisable {
-    Category getCategory();
+    public Category getCategory();
 }
